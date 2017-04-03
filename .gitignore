@@ -2,3 +2,4 @@
 .vagrant
 vendor
 public/log/log.log
+puphpet/files/dot/ssh

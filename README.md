@@ -1,5 +1,4 @@
 # SIMPLE APP
 
-* Implemented PHPUnit testing
-    * Employee model test
-    * EmployeeService CRUD methods testing - getOne(id), getAll(), create(), delete(id)
+- Simple_app that uses PuPHPet's Vagrant config file to run a VM with MongoDB server
+id)
